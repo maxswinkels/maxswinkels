@@ -4,8 +4,7 @@ Hey there, welcome!
 I'm the owner of @manyway.nl and have over 6 years experience in front-end development. 
 
 * I like to explore new trends and learn new technologies.
-* Developer at [Just](https://wearejust.com/nl).
-* Owner of [Manyway](https://manyway.nl).
+* Director and Developer at [waved](https://waved.nl).
 * Occasionally shoot some pictures [@maxswinkels.photography](https://www.instagram.com/maxswinkels.photography/).
 * Feel free to reach out to me for consulting or just for some interesting discussion.
 
