@@ -1,7 +1,6 @@
 # Hi, I'm Max
 
 Hey there, welcome!
-I'm the owner of @manyway.nl and have over 6 years experience in front-end development. 
 
 * I like to explore new trends and learn new technologies.
 * Director and Developer at [waved](https://waved.nl).
