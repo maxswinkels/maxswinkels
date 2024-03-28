@@ -2,21 +2,10 @@
 
 Hey there, welcome!
 
-* I like to explore new trends and learn new technologies.
+* Enthusiastic explorer of new trends and technologies.
 * Director and Developer at [waved](https://waved.nl).
 * Occasionally shoot some pictures [@maxswinkels.photography](https://www.instagram.com/maxswinkels.photography/).
 * Feel free to reach out to me for consulting or just for some interesting discussion.
-
-### Things I code with:
- - Visual Studio Code
- - Javascript
- - React
- - Gsap
- - Kirby CMS
- - WordPress
- - Webpack
- - GIT
- - NPM/Yarn
 
 ### Where to find me
 <a href="https://www.linkedin.com/in/maxswinkels/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-Linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
