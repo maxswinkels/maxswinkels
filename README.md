@@ -3,7 +3,7 @@
 Hey there, welcome!
 
 * Enthusiastic explorer of new trends and technologies.
-* Director and Developer at [waved](https://waved.nl).
+* Freelance Developer at [Backspaced](https://backspaced.nl).
 * Occasionally shoot some pictures [@maxswinkels.photography](https://www.instagram.com/maxswinkels.photography/).
 * Feel free to reach out to me for consulting or just for some interesting discussion.
 
