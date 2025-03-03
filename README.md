@@ -9,5 +9,5 @@ Hey there, welcome!
 
 ### Where to find me
 <a href="https://www.linkedin.com/in/maxswinkels/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-Linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:max.swinkels@outlook.com" target="_blank"><img alt="Mail" src="https://img.shields.io/badge/-Mail-000000?style=for-the-badge&logo=microsoftoutlook&logoColor=white" /></a>
+<a href="mailto:max@backspaced.nl" target="_blank"><img alt="Mail" src="https://img.shields.io/badge/-Mail-000000?style=for-the-badge&logo=microsoftoutlook&logoColor=white" /></a>
 <a href="https://www.instagram.com/maxswinkels/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
