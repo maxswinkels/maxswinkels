@@ -1,15 +1,3 @@
-<!--
-  README for github.com/MaxSwinkels/MaxSwinkels
-  Put banner.svg in the root of this repo. If your default branch is not
-  "main", change /main/ to /master/ in the banner <img src> below.
-  A relative src="banner.svg" also works.
-  Trim any stack badge you don't want by deleting its line.
--->
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/MaxSwinkels/MaxSwinkels/master/banner.svg" alt="Max Swinkels — freelance developer at Backspaced" width="100%" />
-</p>
-
 <p align="center">
   <a href="https://backspaced.nl"><img alt="Backspaced" src="https://img.shields.io/badge/Backspaced-141414?style=for-the-badge" /></a>
   <a href="https://www.linkedin.com/in/maxswinkels/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
