@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 348" width="900" height="348" font-family="'Geist Mono','SF Mono',ui-monospace,Menlo,monospace" role="img" aria-label="Max Swinkels — freelance developer at Backspaced">
+  <defs>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#A78BFA"/>
+      <stop offset="0.5" stop-color="#F472B6"/>
+      <stop offset="1" stop-color="#6EE7B7"/>
+    </linearGradient>
+
+    <clipPath id="l1"><rect x="34" y="80"  width="0" height="28"><animate attributeName="width" from="0" to="300" dur="0.9s" begin="0.4s" fill="freeze" calcMode="linear"/></rect></clipPath>
+    <clipPath id="l2"><rect x="34" y="118" width="0" height="28"><animate attributeName="width" from="0" to="640" dur="1.3s" begin="1.5s" fill="freeze" calcMode="linear"/></rect></clipPath>
+    <clipPath id="l3"><rect x="34" y="162" width="0" height="28"><animate attributeName="width" from="0" to="320" dur="0.9s" begin="3.1s" fill="freeze" calcMode="linear"/></rect></clipPath>
+    <clipPath id="l4"><rect x="34" y="200" width="0" height="28"><animate attributeName="width" from="0" to="640" dur="1.3s" begin="4.2s" fill="freeze" calcMode="linear"/></rect></clipPath>
+    <clipPath id="l5"><rect x="34" y="238" width="0" height="28"><animate attributeName="width" from="0" to="700" dur="1.4s" begin="5.7s" fill="freeze" calcMode="linear"/></rect></clipPath>
+  </defs>
+
+  <!-- window -->
+  <rect x="2" y="2" width="896" height="344" rx="16" fill="#141414" stroke="#2a2a2a" stroke-width="2"/>
+
+  <!-- title bar -->
+  <rect x="2" y="2" width="896" height="48" rx="16" fill="#1b1b1b"/>
+  <rect x="2" y="30" width="896" height="20" fill="#1b1b1b"/>
+  <circle cx="30" cy="26" r="7" fill="#A78BFA"/>
+  <circle cx="54" cy="26" r="7" fill="#F472B6"/>
+  <circle cx="78" cy="26" r="7" fill="#6EE7B7"/>
+  <text x="450" y="31" text-anchor="middle" font-size="14" fill="#8a8a8a">max@backspaced ~ zsh</text>
+  <line x1="2" y1="50" x2="898" y2="50" stroke="#2a2a2a" stroke-width="2"/>
+
+  <!-- line 1: ls ~/work -->
+  <g clip-path="url(#l1)" font-size="19">
+    <text x="34" y="99" fill="#6EE7B7">~ %</text>
+    <text x="76" y="99" fill="#ffffff">ls ~/work</text>
+  </g>
+
+  <!-- line 2: folder listing -->
+  <g clip-path="url(#l2)" font-size="19">
+    <text x="34" y="137" fill="#A78BFA" xml:space="preserve">nordic-style    glutespop    ring-my-bell    homelab</text>
+  </g>
+
+  <!-- line 3: cat about.txt -->
+  <g clip-path="url(#l3)" font-size="19">
+    <text x="34" y="181" fill="#6EE7B7">~ %</text>
+    <text x="76" y="181" fill="#ffffff">cat about.txt</text>
+  </g>
+
+  <!-- line 4-5: about text -->
+  <g clip-path="url(#l4)" font-size="19">
+    <text x="34" y="219" fill="#ffffff">Freelance developer at Backspaced. I build websites,</text>
+  </g>
+  <g clip-path="url(#l5)" font-size="19">
+    <text x="34" y="257" fill="#cfcfcf">web apps and self-hosted tooling, and keep them running.</text>
+  </g>
+
+  <!-- blinking cursor after last line -->
+  <rect x="686" y="240" width="11" height="21" fill="#A78BFA" opacity="0">
+    <animate attributeName="opacity" values="1;1;0;0" dur="1s" begin="7.3s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- accent underline -->
+  <rect x="34" y="300" width="832" height="3" rx="1.5" fill="url(#accent)" opacity="0.85"/>
+</svg>
